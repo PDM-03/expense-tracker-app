@@ -1,0 +1,18 @@
+.top-bar-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.user-input-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.user-input-container input, select, button {
+    padding: 10px;
+    margin: 10px;
+}
+
